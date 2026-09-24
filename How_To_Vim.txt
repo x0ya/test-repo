@@ -1,0 +1,6 @@
+How to use vim
+1. use i to get into insert mode
+2. type your content
+3. press esc to exit the insert mode and get into normal mode
+4. press :wq
+w - write/save q - exit
